@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Penugasan7</string>
+    <string-array name="ticket_types">
+        <item>First Class</item>
+        <item>Business Class</item>
+        <item>Economy Class</item>
+    </string-array>
+    <string-array name="ticket_classes">
+        <item>Yogyakarta - First Class</item>
+        <item>Bali - Business Class</item>
+        <item>Bandung - Economy Class</item>
+    </string-array>
+    </resources>
